@@ -1,2 +1,2 @@
 # 1st-DS-Project
-Study of comparison between life expectancy, total population, and population growth (in %) between south Asian nations and India.
+A study using R Studio to compare life expectancy, total population, and population growth (in percentage) between South Asian nations and India.
